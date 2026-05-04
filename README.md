@@ -6,9 +6,9 @@
 
 ### One line logo
 
-| short | long |
-|---|---|
-| `@ xonsh` | `@ xonsh shell` |
+* `@ xonsh`
+* `@ xonsh shell`
+* `@ xonsh █`
 
 ### ASCII-art logo
 From [logo.txt](https://github.com/xonsh/xonsh/blob/main/logo.txt): 
