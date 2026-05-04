@@ -84,3 +84,19 @@ How to create your own icon:
 6. Now you can change the icon.
 
 Note! You can use this icon for any terminal emulator.
+
+## Merch
+
+https://www.hellotux.com/xonsh
+
+<img width="611" height="700" alt="image" src="https://github.com/user-attachments/assets/904c0357-530e-4f5a-a9e0-18cdbbbe171c" />
+
+## Misc
+
+FFF Intelligent Condensed Regular:
+
+<img width="1456" height="249" alt="image" src="https://github.com/user-attachments/assets/56f0be4d-fa9f-4b5e-a985-0d8f1bd36bf2" />
+
+Fix release:
+
+<img width="1448" height="406" alt="image" src="https://github.com/user-attachments/assets/131ff3e5-12d4-423b-b320-258e27d1ba4d" />
