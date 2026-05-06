@@ -56,7 +56,7 @@
 
 ### ASCII-art logo
 
-![image](https://github.com/xonsh/xonsh/assets/1708680/70afbdc8-a1f2-4814-9e03-fed7ca1866c6) &nbsp; &nbsp; &nbsp; &nbsp; ![image](conch_ascii_with_icon.png)
+![image](https://github.com/xonsh/xonsh/assets/1708680/70afbdc8-a1f2-4814-9e03-fed7ca1866c6) &nbsp; &nbsp; &nbsp; &nbsp; ![image](conch_ascii_with_icon.png) ![image](https://xon.sh/_static/landing2/images/conch_ascii_with_icon.gif)
 
 ## More images
 
