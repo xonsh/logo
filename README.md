@@ -99,3 +99,8 @@ FFF Intelligent Condensed Regular:
 Fix release:
 
 <img width="1448" height="406" alt="image" src="https://github.com/user-attachments/assets/131ff3e5-12d4-423b-b320-258e27d1ba4d" />
+
+
+## Links
+
+* https://github.com/xonsh/xonsh/issues/5142
